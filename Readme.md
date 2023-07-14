@@ -1,13 +1,10 @@
 ![AboutMe.gif](./assets/animation.gif)
 
 <a href="https://www.linkedin.com/in/Arkoprabho/">
-  <img align="left" alt="Arkoprabho's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/arkoprabho">
-  <img align="left" alt="Arko's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Arkoprabho's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Arkoprabho.Arkoprabho)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Arkoprabho.visitor-badge)
 
 <br />
 
@@ -17,8 +14,8 @@
 </p>
 
 Hi, I am Arkoprabho Chakraborti (aka Arko).
-I am a DevOps engineer currently enjoying the projects and challenges at [Technogise](https://www.technogise.com/).
-Solving problems around computers, infrastructure is at my core.
+I am a Platform Engineer, with a firm belief in philosophies of DevOps, automation and enabling builders to be creators
+Solving problems around infrastructure, platform and software are core to me.
 
 Languages and Tools I've worked with:
 
