@@ -1,4 +1,3 @@
-![AboutMe.gif](./assets/animation.gif)
 <p align="left">
   <a href="https://www.linkedin.com/in/ronny-orot-0b8359104/" target="blank">
     <img src="https://github-readme-stats.vercel.app/api?username=Arkoprabho&show_icons=true&count_private=true&theme=onedark&hide=stars&rank_icon=github&show=reviews,prs_merged" alt="env0-logo-with-text" width="20%">
@@ -21,7 +20,6 @@ Languages and Tools I've worked with:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
