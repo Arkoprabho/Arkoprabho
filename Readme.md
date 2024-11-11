@@ -1,5 +1,5 @@
 <p align="left">
-  <a href="https://www.linkedin.com/in/ronny-orot-0b8359104/" target="blank">
+  <a href="https://www.linkedin.com/in/arkoprabho/" target="blank">
     <img src="https://github-readme-stats.vercel.app/api?username=Arkoprabho&show_icons=true&count_private=true&theme=onedark&hide=stars&rank_icon=github&show=reviews,prs_merged" alt="env0-logo-with-text" width="20%">
   </a>
 </p>
