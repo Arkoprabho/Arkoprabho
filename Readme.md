@@ -1,19 +1,22 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/arkoprabho/" target="blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=Arkoprabho&show_icons=true&count_private=true&theme=onedark&hide=stars&rank_icon=github&show=reviews,prs_merged" alt="env0-logo-with-text" width="20%">
+    <img src="https://github-readme-stats.vercel.app/api?username=Arkoprabho&show_icons=true&count_private=true&theme=onedark&hide=stars&rank_icon=github&show=reviews,prs_merged" alt="env0-logo-with-text" width="50%">
   </a>
 </p>
 <br />
 
 
-<a href="https://www.linkedin.com/in/Arkoprabho/">
-  <img align="left" alt="Arkoprabho's LinkedIN" width="22px" src="./assets/linkedin-svgrepo-com.svg" />
-</a>
-Hi, I am Arkoprabho Chakraborti (aka Arko).
-I am a Platform Engineer, with a firm belief in philosophies of DevOps, automation and enabling builders to be creators
-Solving problems around infrastructure, platform and software are core to me.
+### Hi there 👋
 
-Languages and Tools I've worked with:
+I am a platform engineer focused on enhancing developer productivity and accelerating software delivery while optimising for performance and cost.
+I specialize in solving complex infrastructure and platform challenges, creating a seamless experience for developers and end users
+
+Connect with me 
+<a href="https://www.linkedin.com/in/Arkoprabho/">
+  <img alt="Arkoprabho's LinkedIN" width="20px" src="./assets/linkedin-svgrepo-com.svg" />
+</a>
+
+🛠️
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
