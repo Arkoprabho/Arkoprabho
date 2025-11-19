@@ -7,7 +7,7 @@
 
 
 <a href="https://www.linkedin.com/in/Arkoprabho/">
-  <img align="left" alt="Arkoprabho's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
+  <img align="left" alt="Arkoprabho's LinkedIN" width="22px" src="./assets/linkedin-svgrepo-com.svg" />
 </a>
 Hi, I am Arkoprabho Chakraborti (aka Arko).
 I am a Platform Engineer, with a firm belief in philosophies of DevOps, automation and enabling builders to be creators
